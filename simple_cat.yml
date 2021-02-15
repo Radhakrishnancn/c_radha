@@ -9,7 +9,7 @@ cat:
   fur_pattern: solid
   fur_colors: [ black ]
   tail_length: short
-  eyes_colors: [ brown ]
+  eyes_colors: [ yellow ]
 
   eyes_number: 2
   ear_number: 2
