@@ -19,6 +19,7 @@ cat:
     - bunch of candy wrappers
     - tennis ball
     - plush mouse
+    - cardboard box
 
   behavior:
     - eat:
