@@ -24,3 +24,6 @@ cat:
         condition: wants everyone to come to tenderness
         actions:
           - make pretty eyes
+    - play:
+        condition: boring
+        actions: [ run after mice or own tail ]
